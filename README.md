@@ -13,7 +13,7 @@ PreRequisites
 -------------
 1. Follow https://github.com/intel-iot-devkit/android-things-samples#prerequisites for the general Android Thigns environment setup.
 2. Install the [Cordova for Android requirements](http://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html)
-3. Install the [Cordova command line] (http://cordova.apache.org/docs/en/latest/guide/cli/index.html#installing-the-cordova-cli)
+3. Install the [Cordova command line](http://cordova.apache.org/docs/en/latest/guide/cli/index.html#installing-the-cordova-cli)
 
 Create Android Things Application
 ---------------------------------
@@ -25,7 +25,7 @@ $ cordova platform add android
 $ cordova build
 ```
 
-With above steps, you could change files under `www` and call any standard API offer by [WebView](https://developer.android.com/reference/android/webkit/WebView.html). [Mozilla MDN](https://developer.mozilla.org/) and [W3Schools](https://www.w3schools.com/) are good resource to learn the APIs. Because of different web engine and version, http://caniuse.com/ can be used to search the API readiness. The Chromium WebView in DP4 is `52.0.2743.100`.
+With above steps, you could change files under `www` and call any standard API offer by [WebView](https://developer.android.com/reference/android/webkit/WebView.html). [Mozilla MDN](https://developer.mozilla.org/) and [W3Schools](https://www.w3schools.com/) are good website to learn the APIs. Because of different web engine and version, http://caniuse.com/ can be used to search the API readiness. The Chromium WebView in DP4 is `52.0.2743.100`.
 
 Plugins
 -------
