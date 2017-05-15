@@ -35,7 +35,7 @@ Cordova 7.x official plugins
 | [Device Motion](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-device-motion/index.html)             | Verifed | [https://github.com/fujunwei/cordova-plugin-device-motion](https://github.com/fujunwei/cordova-plugin-device-motion/tree/android_things)  |  |
 | [Device Orientation](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-device-orientation/index.html)   | WIP | N/A  |  |
 | [Geolocation](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-geolocation/index.html)                 |  WIP |  N/A  | |
-| [Media](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media/index.html)                             | WIP | N/A | SW codec only |
+| [Media](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media/index.html)                             | Verifed |  | Play back audio files on a device with SW codec only |
 | [Camera](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-camera/index.html)                           | WIP? | N/A |  |
 | [Media Capture](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-media-capture/index.html)             | Wait for native support | N/A |  |
 | [Contacts](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-contacts/index.html) | Won't suppot | N/A |  |
