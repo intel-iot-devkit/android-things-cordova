@@ -41,15 +41,4 @@ Cordova 7.x official plugins
 | [Contacts](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-contacts/index.html) | Won't suppot | N/A |  |
 | [Statusbar](http://cordova.apache.org/docs/en/latest/reference/cordova-plugin-statusbar/index.html) | Won't suppot | N/A |  |
 
-Newly created (private)
--------------
-| Plugin | Status | Repo URL | Comment |
-|--------|--------|----------|------|
-| LED | Verified | To be public |  |
-| Temperature | WIP | To be public |  |
-| Humidity | Not started | To be public |  |
-| Air Pressure | Not started | To be public |  |
-| Air Quality | Not started |  To be public |  |
-| Infrared Temperature | Not started | To be public |  |
-
 * For those does not listed here but can be searched on https://cordova.apache.org/plugins/, you're welcome to submit Pull Request.
