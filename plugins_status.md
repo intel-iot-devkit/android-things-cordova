@@ -45,12 +45,11 @@ Newly created (private)
 -------------
 | Plugin | Status | Repo URL | Comment |
 |--------|--------|----------|------|
-| LED | Verified | [https://github.com/01org/cordova-plugin-led](https://github.com/01org/cordova-plugin-led) |  |
-| Temperature | WIP | [https://github.com/01org/cordova-plugin-temperature](http://github.com/01org/cordova-plugin-temperature) |  |
-| Humidity | Not started | [https://github.com/01org/cordova-plugin-humidity](http://github.com/01org/cordova-plugin-humidity) |  |
-| Air Pressure | Not started | [https://github.com/01org/cordova-plugin-air-pressure](http://github.com/01org/cordova-plugin-air-pressure) |  |
-| Air Quality | Not started |  [https://github.com/01org/cordova-plugin-air-quality](http://github.com/01org/cordova-plugin-air-quality) |  |
-| Infrared Temperature | Not started | [https://github.com/01org/cordova-plugin-infrared-temperature](http://github.com/01org/cordova-plugin-infrared-temperature) |  |
+| LED | Verified | To be public |  |
+| Temperature | WIP | To be public |  |
+| Humidity | Not started | To be public |  |
+| Air Pressure | Not started | To be public |  |
+| Air Quality | Not started |  To be public |  |
+| Infrared Temperature | Not started | To be public |  |
 
-* If you need permission, please contact Balestrieri, Francesco <francesco.balestrieri@intel.com>
 * For those does not listed here but can be searched on https://cordova.apache.org/plugins/, you're welcome to submit Pull Request.
